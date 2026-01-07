@@ -726,12 +726,6 @@ This isn't "connect OpenAI API and call it a day." It's a real AI system.
 
 ---
 
-## 📞 Project Links
-
-**🌐 Live Application:** [https://enterpriserag.onrender.com](https://enterpriserag.onrender.com)  
-**📖 API Documentation:** [https://enterpriserag.onrender.com/docs](https://enterpriserag.onrender.com/docs) (FastAPI auto-generated)  
-**💻 Source Code:** This repository
-
 ### Quick Start (Run Locally)
 
 ```bash
